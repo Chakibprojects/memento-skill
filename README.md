@@ -32,7 +32,7 @@ In 6 months, when you return to the project:
 ## Installation
 
 ```bash
-npx skills add YOUR_USERNAME/memento-skill --skill memento
+npx skills add https://github.com/Chakibprojects/memento-skill --skill memento
 ```
 
 ## Usage
